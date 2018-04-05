@@ -2,4 +2,4 @@
 
 This project was made during a lesson on OOP with python.
 
-You lauch the code with start.py only on terminal.
+You launch the code with start.py only on terminal.
